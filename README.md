@@ -61,15 +61,25 @@ These concepts align with hackathon goals of building **solutions for governance
 ## 📂 Project Structure
 
 DMCIS--Hack4Delhi-IndiaInnovates/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── assets/
+
 │   ├── images/
+
 │   └── icons/
+
 └── pages/
+
     ├── dashboard.html
+    
     ├── services.html
+    
     └── contact.html
 
 ## ⚙️ Installation & Setup
