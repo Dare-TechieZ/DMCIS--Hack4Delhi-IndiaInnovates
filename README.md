@@ -161,7 +161,7 @@ This project is open-source and available under the MIT License.
 
 ## 👩‍💻 Team
 
-Developed by **Dare-TechieZ**
+Developed by **TEAM DOMINATORS**
 
 ---
 
