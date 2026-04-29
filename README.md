@@ -63,17 +63,16 @@ These concepts align with hackathon goals of building **solutions for governance
 
 
 DMCIS--Hack4Delhi-IndiaInnovates/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
 │ ├── images/
 │ └── icons/
-│── pages/
-│ ├── dashboard.html
-│ ├── services.html
-│ └── contact.html
-
+└── pages/
+├── dashboard.html
+├── services.html
+└── contact.html
 
 *(Modify this if your actual structure differs)*
 
